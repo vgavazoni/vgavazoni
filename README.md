@@ -1,7 +1,7 @@
 Olá! Eu sou o Vinicius Gavazoni
 
 - 🌱 Estou estudando NextJs e React
-- 💞️ Meu site gavazoni.com.br
+- 💞️ Meu <a href="gavazoni.com.br">site</a>
 
 <div align="center">
   <a href="https://github.com/vgavazoni">
