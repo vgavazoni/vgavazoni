@@ -6,7 +6,7 @@ Olá! Eu sou o Vinicius Gavazoni
 <div align="center">
   <a href="https://github.com/vgavazoni">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vgavazoni&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vgavazoni&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vgavazoni&layout=compact&langs_count=8&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -17,6 +17,7 @@ Olá! Eu sou o Vinicius Gavazoni
   <img align="center" alt="Vini-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vini-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="Vini-Php" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Vini-Php" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>  
 
  ##
