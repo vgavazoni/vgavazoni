@@ -1,6 +1,6 @@
 Olá! Eu sou o Vinicius Gavazoni
 
-- 🌱 Estou estudando NextJs e React
+- 🌱 Estou estudando NextJs, React e Node
 - 💞️ Meu site <b>gavazoni.com.br</b>
 
 <div align="center">
